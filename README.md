@@ -19,11 +19,10 @@ Step 2:
 
 Create a new folder to store files.
 
-Open Visual Studio
-Click "Clone a repository"
+Open Visual Studio. Click "Clone a repository"
 ![alt text](https://github.com/skyfall17/Minesweeper_2018/blob/master/screenshots/Capture_1.JPG)
 
-Copy the repository web url from Github and paste in Repository location. Select the folder you created in Local path. Click "Clone"
+Copy the repository web url from Github and paste in Repository location. Select the folder you created in Local path. Click "Clone".
 ![alt text](https://github.com/skyfall17/Minesweeper_2018/blob/master/screenshots/Capture_2.JPG)
 
 Step 3:
@@ -60,8 +59,7 @@ Select "Debug" under "Configuration:" and edit the values to match those below. 
 
 Step 6:
 
-Click the "C/C++" tab on the left-hand window and click in the "Additional Include Directories" box dropdown. Click "<Edit...>" and the ellipsis in the textbox.
-Go into the first folder you created, click the "sfml" folder, and select the "include" folder. Click "Ok" and "Apply".
+Click the "C/C++" tab on the left-hand window and click in the "Additional Include Directories" box dropdown. Click "<Edit...>" and the ellipsis in the textbox. Go into the first folder you created, click the "sfml" folder, and select the "include" folder. Click "Ok" and "Apply".
 ![alt text](https://github.com/skyfall17/Minesweeper_2018/blob/master/screenshots/Capture_10.JPG)
 
 Repeat this step for the "Release" Configuration.  Click "Ok" and "Apply".
